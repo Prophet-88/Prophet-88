@@ -11,4 +11,4 @@ outstanding solutions
 
 🏔 In my free time, you can find me listening to music and going to the beach
 
-C++, Java, Python, Fast Learner, Quadrilingual, Computer Network, Microsoft Office Suite
+Flutter, React, C++, Java, Python, Fast Learner, Quadrilingual, Computer Network, Microsoft Office Suite
